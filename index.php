@@ -18,6 +18,8 @@
 
   <!-- Demo -->
 
+  <li><a href="functions/string_functions.php">String Functions</a></li>
+
   <li><a href="globals-demo/get_post_demo.php">GET/POST Demo</a></li>
   <li><a href="globals-demo/files_demo.php">FILES Demo</a></li>
 
